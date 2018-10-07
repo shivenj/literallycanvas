@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack",
     "prepublish": "gulp commonjs",
-    "postinstall": "npm run build"
+    "postinstall": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "gulp dev",
     "gulp": "gulp"
